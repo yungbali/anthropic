@@ -1,0 +1,3 @@
+2024-11-18 17:53:09,831 - INFO - Payment table created successfully
+2024-11-18 17:53:09,845 - INFO - Payment stored successfully for user@example.com
+2024-11-18 17:55:25,662 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
